@@ -5,7 +5,7 @@ Growing and improving day by day
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-borozan8999/) 
 
-# 💾 Tech Stack:
+# ※ Tech Stack:
 ![TypeScript](https://img.shields.io/badge/Typescript-%23121011.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23121011.svg?style=flat&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23121011.svg?style=flat&logo=angular&logoColor=white)
