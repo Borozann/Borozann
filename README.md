@@ -18,7 +18,7 @@ Full-stack engineer working across the JS/TS ecosystem and Java. Currently build
 
 **Backend**
 
-![](https://skillicons.dev/icons?i=nodejs,express,postgres,py,java,spring)
+![](https://skillicons.dev/icons?i=py,java,spring,postgres,mysql)
 
 **Infrastructure**
 
