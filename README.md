@@ -1,4 +1,4 @@
-# Hi! I'm a FullStack Developer!
+# Hi! I'm a Software Engineer!
 Growing and improving day by day
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-borozan8999/) 
