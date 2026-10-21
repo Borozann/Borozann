@@ -1,7 +1,7 @@
 # Gabriel Borozan
 ### Software Engineer • Full-Stack (TypeScript/JS ecosystem + Java)
 
-Full-stack engineer working across the JS/TS ecosystem and Java. Currently building [Sheepr](https://sheepr.com.br).
+Full-stack engineer working across the JS/TS ecosystem and Java.
 <!-- 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 -->
